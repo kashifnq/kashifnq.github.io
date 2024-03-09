@@ -8,6 +8,7 @@
 
 **Kashif Naseer Qureshi** is an **Associate Professor** of Cyber Security in the <a href="https://www.ul.ie/scieng/schools-and-departments/department-electronic-and-computer-engineering/dr-kashif-naseer"target="_blank">*Department of Electronic and Computer Engineering at the University of Limerick, Ireland.</a> 
 I am also actively involved in the <a href="https://www.cyberskills.ie"target="_blank">*Cyber Skills project, a HEA-HCI Pillar 3 initiative Ireland.</a> 
+I am also actively involved in the <a href="https://www.cyberskills.ie/"target="_blank">*Cyber Skills project, a HEA-HCI Pillar 3 initiative Ireland.</a> 
 
 He received a Ph.D. degree from the University of Technology Malaysia (UTM) and holds two master's degrees in Computer Science and Information Technology from reputable universities. He is the Co-Principal Investigator in Cyber Reconnaissance and Combat project funded by higher educa
 tion commission. His research interests focus on the security, trust and privacy con
