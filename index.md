@@ -6,18 +6,9 @@
   
 ### About me
 
-**Kashif Naseer Qureshi** is an **Associate Professor** of Cyber Security in the <a href="https://www.ul.ie/scieng/schools-and-departments/department-electronic-and-computer-engineering/dr-kashif-naseer"target="_blank">*Department of Electronic and Computer Engineering at the University of Limerick, Ireland.</a> 
-I am also actively involved in the <a href="https://www.cyberskills.ie"target="_blank">*Cyber Skills project, a HEA-HCI Pillar 3 initiative Ireland.</a> 
-I am also actively involved in the <a href="https://www.cyberskills.ie/"target="_blank">*Cyber Skills project, a HEA-HCI Pillar 3 initiative Ireland.</a> 
-
-He received a Ph.D. degree from the University of Technology Malaysia (UTM) and holds two master's degrees in Computer Science and Information Technology from reputable universities. He is the Co-Principal Investigator in Cyber Reconnaissance and Combat project funded by higher educa
-tion commission. His research interests focus on the security, trust and privacy con
-cerns for Internet of Everything (IoE), Internet of Vehicles (IoV), Electronic Vehicles (EV) charging management planning and recommendation systems, and Internet of Things (IoT) and use cases implementation in wireless and wired networks. He is active member of Lero, the Science Foundation Ireland Research Centre for Software in University of Limerick (UL). His name is included in top 2% Scientist for consecutive 3 years from Stanford university USA. He has published various high-impact factor papers in international journals and conference proceedings and served on several conferences IPCs and journal editorial boards. He has number of book chapters and 5 edited books in Springer, CRC and Elsiver Publishers related to Cybersecurity, Privacy and Trust architectures. He has also part of various research projects related to wireless communication, routing and CyberSecurity domains in the UK, China, Ireland, Malaysia, Canada, Dubai, Vietnam and in Pakistan.
-
-I'm a **PhD student** at the **Department of Computer Sciences** at <a href="https://tec.mx/es" target="_blank">*Tecnológico de Monterrey</a> 🇲🇽 and <a href="https://www.univ-lorraine.fr" target="_blank">*Université de Lorraine</a> 🇫🇷
+I'm a **Associate Professor** of Cyber Security at the **Department of Electronic and Computer Engineering at the University of Limerick, Ireland.** at <a href="https://www.ul.ie/scieng/schools-and-departments/department-electronic-and-computer-engineering/dr-kashif-naseer" target="_blank">*Department of Electronic and Computer Engineering at the University of Limerick, Ireland.</a> 🇲🇽 and I am also actively involved in the <a href="https://www.cyberskills.ie/" target="_blank">*Cyber Skills project, a HEA-HCI Pillar 3 initiative Ireland.</a> 🇫🇷
 
 Currently I'm working in kidney stone classification in endoscopic images at the [CV-INSIDE Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz) under the direction of [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
-
 
 
 Most importantly, **I'm always on the lookout for a great <a href="https://en.wikipedia.org/wiki/Affogato" target="_blank">affogato!</a>**
