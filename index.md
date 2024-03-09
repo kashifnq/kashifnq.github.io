@@ -18,7 +18,7 @@ I'm also **Academic Advisors** in **UG BSc Creative Computing and Cyber Security
 
 ### Research interests
 
-My interests are in **Cyber Security**, **Xomputer Networks**,  and **wireless Communication**. This involves multidisciplinary research from computing and engineering sciences. 
+My interests are in **Cyber Security**, **Computer Networks**,  and **Wireless Communication**. This involves multidisciplinary research from computing and engineering sciences including Vehicualr Ad Hoc Networks, Wireless Sensor Networks, Body Area Networks, Smart Cities, Internet of Things, Internet of Everything, Artificial Intelligence based Internet of Things.  
 
   
 I'm now working on some interesting **projects**:
