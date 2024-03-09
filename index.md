@@ -6,14 +6,12 @@
   
 ### About me
 
-I'm a **Associate Professor** of Cyber Security at the <a href="https://www.ul.ie/scieng/schools-and-departments/department-electronic-and-computer-engineering/dr-kashif-naseer" target="_blank">*Department of Electronic and Computer Engineering at the University of Limerick, Ireland.</a> and I am also actively involved in the <a href="https://www.cyberskills.ie/" target="_blank">*Cyber Skills project, a HEA-HCI Pillar 3 initiative Ireland.</a> 
+I'm a **Associate Professor** of **Cyber Security** at the <a href="https://www.ul.ie/scieng/schools-and-departments/department-electronic-and-computer-engineering/dr-kashif-naseer" target="_blank">*Department of Electronic and Computer Engineering at the University of Limerick, Ireland.</a> and I am also actively involved in the <a href="https://www.cyberskills.ie/" target="_blank">*Cyber Skills project, a HEA-HCI Pillar 3 initiative Ireland.</a> 
 
 I am active memeber of <a href="https://lero.ie/" target="_blank">*LERO, Software for a better world, Ireland.</a>
 
 
-I'm also **Academic Advisors** in UG BSc Creative Computing and Cyber Security programs at <a href="https://www.ccstuds.com/post/our-academic-and-industry-advisors-for-the-school-of-computing" target="_blank">*Bath Spa University Academic Center RAK, UAE</a>
-
-Most importantly, **I'm always on the lookout for a great <a href="https://en.wikipedia.org/wiki/Affogato" target="_blank">affogato!</a>**
+I'm also **Academic Advisors** in **UG BSc Creative Computing and Cyber Security programs** at <a href="https://www.ccstuds.com/post/our-academic-and-industry-advisors-for-the-school-of-computing" target="_blank">*Bath Spa University Academic Center RAK, UAE</a>
   
   
 ---
