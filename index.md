@@ -8,8 +8,7 @@
 
 I'm a **Associate Professor** of Cyber Security at the at <a href="https://www.ul.ie/scieng/schools-and-departments/department-electronic-and-computer-engineering/dr-kashif-naseer" target="_blank">*Department of Electronic and Computer Engineering at the University of Limerick, Ireland.</a> and I am also actively involved in the <a href="https://www.cyberskills.ie/" target="_blank">*Cyber Skills project, a HEA-HCI Pillar 3 initiative Ireland.</a> 
 
-Currently I'm working in kidney stone classification in endoscopic images at the [CV-INSIDE Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz) under the direction of [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
-
+I'm also **Academic Advisors** in UG BSc Creative Computing and Cyber Security programs at <a href="https://www.ccstuds.com/post/our-academic-and-industry-advisors-for-the-school-of-computing" target="_blank">*Bath Spa University Academic Center RAK, UAE</a>
 
 Most importantly, **I'm always on the lookout for a great <a href="https://en.wikipedia.org/wiki/Affogato" target="_blank">affogato!</a>**
   
