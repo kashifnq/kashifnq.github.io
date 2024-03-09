@@ -18,7 +18,7 @@ I'm also **Academic Advisors** in **UG BSc Creative Computing and Cyber Security
 
 ### Research interests
 
-My interests are in **medical image analysis**, **computer vision**,  and **machine learning**. This involves multidisciplinary research from computing and biomedical sciences. 
+My interests are in **Cyber Security**, **Xomputer Networks**,  and **wireless Communication**. This involves multidisciplinary research from computing and engineering sciences. 
 
   
 I'm now working on some interesting **projects**:
