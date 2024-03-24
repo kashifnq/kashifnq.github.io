@@ -2,7 +2,7 @@
 ## Contact me 📬
 ###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • Contact                        
 
-<a href="https://scholar.google.com/citations?user=yENEwuoAAAAJ&hl=en" target="_blank">Google Academic</a> • <a href="https://github.com/friscolt" target="_blank">GitHub</a> • <a href="https://www.researchgate.net/profile/Kashif-Qureshi-4" target="_blank">ResearchGate</a> • <a href="https://twitter.com/kashifnq" target="_blank">Twitter</a> • <a href="https://www.linkedin.com/in/kashifnq/" target="_blank">LinkedIn</a>• [CV](/files/CV_FranciscoLopez.pdf) • [E-mail](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco) 
+<a href="https://scholar.google.com/citations?user=yENEwuoAAAAJ&hl=en" target="_blank">Google Academic</a> • <a href="https://github.com/kashifnq" target="_blank">GitHub</a> • <a href="https://www.researchgate.net/profile/Kashif-Qureshi-4" target="_blank">ResearchGate</a> • <a href="https://twitter.com/kashifnq" target="_blank">Twitter</a> • <a href="https://www.linkedin.com/in/kashifnq/" target="_blank">LinkedIn</a>• [CV](/files/CV_FranciscoLopez.pdf) • [E-mail](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco) 
 
 
 ---
