@@ -18,8 +18,8 @@ In this section, you can find my selected [publications](/publications). Also yo
 
 
 
-*  **<a href="https://openaccess.thecvf.com/content/ICCV2023W/LXCV/papers/Lopez-Tiro_Improving_Automatic_Endoscopic_Stone_Recognition_Using_a_Multi-view_Fusion_Approach_ICCVW_2023_paper.pdf" target="_blank">Improving automatic endoscopic stone recognition using a multi-view fusion approach enhanced with two-step transfer learning</a>**  <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, E. Villalvazo-Avila, JP. Betancur-Rengifo, I. Reyes-Amezcua, J. Hubert, G. Ochoa-Ruiz, C. Daul *Proceedings of the 2023 IEEE/CVF International Conference on Computer Vision.*
-[<a href="https://arxiv.org/abs/2206.00069" target="_blank">ArXiv</a>]
+*  **<a href="https://ieeexplore.ieee.org/document/10589383?source=authoralert" target="_blank">Blockchain-Based Trust and Authentication Model for Detecting and Isolating Malicious Nodes in Flying Ad Hoc Networks</a>**  <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">K. N. Qureshi</a> H. Nafea, I. Tariq Javed and K. Zrar Ghafoor, Submitted in IEEE Access*
+[<a href="https://ieeexplore.ieee.org/document/10589383?source=authoralert" target="_blank" target="_blank">IEEE Access</a>]
 
 
  
