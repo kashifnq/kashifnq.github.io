@@ -23,10 +23,10 @@ My interests are in **Cyber Security**, **Computer Networks**,  and **Wireless C
   
 I'm now working on some interesting **projects**:
 
-*  [Classification of **kidney stones** in endoscopic images](/kidneystones) 📌
-*  [Visualization and localization of **blood vessels** in speckle images](/bloodvessels)
-*  [Breast classification on **mammography** images](/mammography) 
-*  [Visualization and analysis of **colony growth** in speckle images](/colonygrowth) 
+*  [Edge and Cloud based Trust Mechanism for **Smart Cities** Networks](/trust) 📌
+*  [Blockchain-Based Trust and Authentication Model for Detecting and Isolating Malicious Nodes in **Flying Ad Hoc Networks** ](/fanet)
+*  [Internet of Everything: Evolution and Fundamental Concepts **Standrads, Technologies and Trend**](/internetofeverything) 
+*  [Cybersecurity Vigilance and Security Engineering of **Internet of Everything** in speckle images](/cybervigelence) 
 
 
 If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)  or follow me on <a href="https://twitter.com/Friscolt" target="_blank">twitter</a>.
