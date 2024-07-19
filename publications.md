@@ -18,7 +18,7 @@ In this section, you can find my selected [publications](/publications). Also yo
 
 
 
-*  **<a href="https://ieeexplore.ieee.org/document/10589383?source=authoralert" target="_blank">Blockchain-Based Trust and Authentication Model for Detecting and Isolating Malicious Nodes in Flying Ad Hoc Networks</a>**  <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">K. N. Qureshi</a> H. Nafea, I. Tariq Javed and K. Zrar Ghafoor, Submitted in IEEE Access*
+*  **<a href="https://ieeexplore.ieee.org/document/10589383?source=authoralert" target="_blank">Blockchain-Based Trust and Authentication Model for Detecting and Isolating Malicious Nodes in Flying Ad Hoc Networks</a>**  <a href="https://scholar.google.com/citations?user=yENEwuoAAAAJ&hl=en">K. N. Qureshi</a> H. Nafea, I. Tariq Javed and K. Zrar Ghafoor, Submitted in IEEE Access*
 [<a href="https://ieeexplore.ieee.org/document/10589383?source=authoralert" target="_blank" target="_blank">IEEE Access</a>]
 
 
