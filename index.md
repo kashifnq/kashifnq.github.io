@@ -29,7 +29,7 @@ I'm now working on some interesting **projects**:
 *  [Cybersecurity Vigilance and Security Engineering of **Internet of Everything** in speckle images](/cybervigelence) 
 
 
-If you want to discuss about these areas of research, or **make a collaboration**, send me an [email](kashifnaseer.qureshi@ul.ie)  or follow me on <a href="https://x.com/kashifnq" target="_blank">x</a>.
+If you want to discuss about these areas of research, or **make a collaboration**, send me an [email](kashifnaseer.qureshi@ul.ie)  or follow me on <a href="https://x.com/kashifnq" target="_blank">x</a> and <a href="https://www.linkedin.com/in/kashifnq" target="_blank">Linkdin</a>
 
 
 Cheers,
