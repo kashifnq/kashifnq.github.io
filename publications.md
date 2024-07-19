@@ -6,7 +6,7 @@
 ---
 
 
-In this section, you can find my selected [publications](/publications). Also you can find more information in my <a href="https://scholar.google.com/citations?user=AlKdFRsAAAAJ&hl=en&oi=ao" target="_blank">Google Academic</a>  profile. **Each publication includes the indexed article, code and its poster and/or presentation**. If you want the article (or any other item) [write me an email](mailto:francisco.lopez@ieee.org?subject=[GitHub]%20Hello,%20Francisco) or request it in my <a href="https://www.researchgate.net/profile/Francisco-Lopez-Tiro" target="_blank">ResearchGate</a>
+In this section, you can find my selected [publications](/publications). Also you can find more information in my <a href="https://scholar.google.com/citations?user=yENEwuoAAAAJ&hl=en" target="_blank">Google Academic</a>  profile. **Each publication includes the publisher link**. If you want the article (or any other item) [write me an email](kashifnaseer.qureshi@ul.ie) or request it in my <a href="https://www.researchgate.net/profile/Kashif-Qureshi-4" target="_blank">ResearchGate</a>
 
 
 
