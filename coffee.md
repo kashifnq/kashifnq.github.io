@@ -1,5 +1,5 @@
 ## Coffee recommendations ☕️
-###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • Coffee • [Contact](/contact)
+###  [Home](/index) • [Publications](/publications.md) • [Research](/research.md) • [News](/news.md) • [CV](/brief_cv.md) • Coffee • [Contact](/contact.md)
 **Coffee** • [Bookshelf](/files/books) • [Films](/files/films)
 
 --- 
