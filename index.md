@@ -1,6 +1,6 @@
 ## Welcome! 🗻
 
-###  Home • [Publications](/publications.md) • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • [Contact](/contact)
+###  Home • [Publications](/publications.md) • [Research](/research.md) • [News](/news.md) • [CV](/brief_cv.md) • [Coffee](/coffee.md) • [Contact](/contact.md)
 ---
 
   
